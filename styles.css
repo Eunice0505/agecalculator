@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(196, 4, 4);
+}
+.contenedortdo{
+    width: 100%;
+    max-width: 470px;
+background: linear-gradient(#5f6153, hsl(103, 71%, 45%));
+color: rgb(255, 255, 255);
+text-align: center;
+margin: 100px auto;
+border-radius: 20px;
+padding: 40px;
+}
+
+
+.btn{
+    background: linear-gradient(#0a5ecc, #21614e);
+    outline: 0;
+    border: 0;
+    border-radius: 40px;
+    color: #fff;
+    cursor: pointer;
+    padding: 15px 25px;
+}
